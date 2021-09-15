@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup",
+    "cc-stepper": "/node-modules/cc-ui-uni-app/components/cc-stepper/cc-stepper",
+    "cc-goods-action": "/node-modules/cc-ui-uni-app/components/cc-goods-action/cc-goods-action"
+  },
+  "component": true
+}

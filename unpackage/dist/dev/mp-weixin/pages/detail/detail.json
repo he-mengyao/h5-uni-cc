@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "小米Lite",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-swiper": "/node-modules/cc-ui-uni-app/components/cc-swiper/cc-swiper",
+    "prices": "/componments/detail/prices",
+    "spec": "/componments/detail/spec",
+    "recom": "/componments/detail/recom"
+  }
+}

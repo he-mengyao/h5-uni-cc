@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "小米Lite",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup",
+    "cc-password-input": "/node-modules/cc-ui-uni-app/components/cc-password-input/cc-password-input",
+    "top": "/componments/top/top"
+  }
+}

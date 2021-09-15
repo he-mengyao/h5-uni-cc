@@ -1,0 +1,206 @@
+{
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^cc-(.*)": "cc-ui-uni-app/components/cc-$1/cc-$1.vue"
+		}
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/category/category",
+			"style": {
+				"navigationBarTitleText": "分类",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/cart/cart",
+			"style": {
+				"navigationBarTitleText": "购物车"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/list/list",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/phone",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/password",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/location/location",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/setting",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/vip",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/orderList",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/address/addressList",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/seckill/seckill",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/comment",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/user/chat",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/location/detailLocation",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/location/store",
+			"style": {
+				"navigationBarTitleText": "小米Lite",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#D8A26D",
+		"list": [{
+				"text": "首页",
+				"iconPath": "static/tabbar/icon-home.png",
+				"selectedIconPath": "static/tabbar/icon-home-selected.png",
+				"pagePath": "pages/home/home"
+			},
+			{
+				"text": "分类",
+				"iconPath": "static/tabbar/icon-category.png",
+				"selectedIconPath": "static/tabbar/icon-category-selected.png",
+				"pagePath": "pages/category/category"
+			},
+			{
+				"text": "购物车",
+				"iconPath": "static/tabbar/icon-cart.png",
+				"selectedIconPath": "static/tabbar/icon-cart-selected.png",
+				"pagePath": "pages/cart/cart"
+			},
+			{
+				"text": "我的",
+				"iconPath": "static/tabbar/icon-user.png",
+				"selectedIconPath": "static/tabbar/icon-user-selected.png",
+				"pagePath": "pages/user/user"
+			}
+		]
+	}
+}

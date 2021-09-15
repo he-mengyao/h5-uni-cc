@@ -1,0 +1,1 @@
+<view class=" flex flex-c ai-c mr-10 data-v-4fce60e4"><view class="carousel data-v-4fce60e4"><cc-swiper vue-id="2b01a338-1" list="{{list}}" mode="rect" data-event-opts="{{[['^click',[['click']]]]}}" bind:click="__e" class="data-v-4fce60e4" bind:__l="__l"></cc-swiper></view></view>

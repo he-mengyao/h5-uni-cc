@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "小米Lite",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search"
+  }
+}

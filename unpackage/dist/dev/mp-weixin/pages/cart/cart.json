@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cc-checkbox": "/node-modules/cc-ui-uni-app/components/cc-checkbox/cc-checkbox",
+    "cc-stepper": "/node-modules/cc-ui-uni-app/components/cc-stepper/cc-stepper",
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup"
+  }
+}

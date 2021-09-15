@@ -1,0 +1,1 @@
+<view class="mr-10 flex wrap data-v-7f8277a8"><block wx:for="{{nav}}" wx:for-item="item" wx:for-index="index" wx:key="index"><image class="nav data-v-7f8277a8" src="{{item.url}}"></image></block></view>

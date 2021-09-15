@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "小米Lite",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-rate": "/node-modules/cc-ui-uni-app/components/cc-rate/cc-rate",
+    "cc-upload": "/node-modules/cc-ui-uni-app/components/cc-upload/cc-upload",
+    "cc-field": "/node-modules/cc-ui-uni-app/components/cc-field/cc-field",
+    "cc-checkbox": "/node-modules/cc-ui-uni-app/components/cc-checkbox/cc-checkbox",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button"
+  }
+}
